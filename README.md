@@ -13,7 +13,7 @@ npm install typescript @types/node --save-dev
 npx tsc --init
 
 https://prnt.sc/ktpEiMPqO-40
-
+npm install -g ts-node
 
 GUIDE....
 
